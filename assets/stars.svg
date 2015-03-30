@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="129"
+   height="20"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stars.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     id="namedview30"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="16"
+     inkscape:cx="67.096037"
+     inkscape:cy="3.7491552"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <linearGradient
+     id="b"
+     x2="0"
+     y2="50.7937"
+     gradientTransform="scale(2.539685,0.39374962)"
+     x1="0"
+     y1="0"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       id="stop5"
+       stop-opacity=".1"
+       stop-color="#bbb" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop7" />
+  </linearGradient>
+  <mask
+     id="a">
+    <rect
+       width="129"
+       height="20"
+       rx="3"
+       fill="#fff"
+       id="rect10" />
+  </mask>
+  <g
+     font-size="11"
+     id="g20"
+     transform="translate(-1.75,-0.0625)"
+     style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff">
+    <g
+       style="fill:#ffcc00"
+       id="s"
+       transform="matrix(0.075322,0,0,0.075322,60.361431,4.1913388)">
+      <g
+         id="c">
+        <path
+           inkscape:connector-curvature="0"
+           id="t"
+           d="M 0,-20 0,0 10,0"
+           transform="matrix(0.95105652,0.30901699,-0.30901699,0.95105652,-6.1803399,-0.97886967)" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#t"
+           transform="scale(-1,1)"
+           id="use7" />
+      </g>
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#c"
+         transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)"
+         id="use9" />
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#c"
+         transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)"
+         id="use11" />
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#c"
+         transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)"
+         id="use13" />
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#c"
+         transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)"
+         id="use15" />
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(2.8683848,0.7685809)"
+       id="use17" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(4.968188,2.8683847)"
+       id="use19" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(5.7367692,5.7367689)"
+       id="use21" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(4.968188,8.6051537)"
+       id="use23" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(2.8683848,10.704957)"
+       id="use25" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(3.3576142e-7,11.473538)"
+       id="use27" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(-2.8683839,10.704957)"
+       id="use29" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(-4.9681879,8.6051537)"
+       id="use31" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(-5.7367698,5.7367689)"
+       id="use33" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(-4.9681879,2.8683847)"
+       id="use35" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       xlink:href="#s"
+       transform="translate(-2.8683839,0.7685809)"
+       id="use37" />
+  </g>
+</svg>
